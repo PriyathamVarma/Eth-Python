@@ -1,4 +1,4 @@
-# ETH Python learning
+# ETH Python
 Python based Ethereum development learning
 ![ETH-PYTH](https://github.com/PriyathamVarma/Eth-Python/blob/main/Ethereum%20-%20Python.jpg)
 
